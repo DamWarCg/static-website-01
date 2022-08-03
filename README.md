@@ -1,1 +1,1 @@
-# static-website-01
+Docker image available at https://hub.docker.com/r/damwar/static-website-01
